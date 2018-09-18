@@ -7,6 +7,8 @@ FACES 2.0 is a face recognition application based on a method of machine learnin
 ##Software Live [here](http://faces2.engr.ucr.edu/ "FACES 2.0 Homepage")
 
 If you use our work please cite our paper:
+
+
 @article{guptadeep,
   title={DEEP LEARNING BASED IDENTITY VERIFICATION IN RENAISSANCE PORTRAITS},
   author={Gupta, Akash and Mithun, Niluthpol C and Rudolph, Conrad and Roy-Chowdhury, Amit K}
