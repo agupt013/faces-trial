@@ -4,12 +4,12 @@ FACES 2.0 is a face recognition application based on a method of machine learnin
 
 ## Usage Information
 vggArt.py takes two inputs. One is path to test image and other ispath to reference image.
-     Usage: python vggArt.py -t <path of test image> -r <path of reference image>
+     Usage: python vggArt.py -t \<path of test image\> -r \<path of reference image\>
 
 ## Required files
-You MUST download and save these files where you have saved th e vggArt.py file.
-Model file - 
-Shape predictor - 
+You MUST download and save these files where you have saved the vggArt.py file. PLEASE DO NOT CHANGE THE NAME OF THE FILES.
+[Link] (https://goo.gl/BSzLHb)
+
 ## Software Live (in progress) [here](http://faces2.engr.ucr.edu/ "FACES 2.0 Homepage")
 
 ## Paper
