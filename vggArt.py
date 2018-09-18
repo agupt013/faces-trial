@@ -30,7 +30,7 @@ caffe.set_mode_cpu()
 folder_index = 0
 
 model_def = "./VGG_FACE_deploy.prototxt"
-model_weights = "./styled_iter_45000.caffemodel" #VGG_ART_iter_45000.caffemodel
+model_weights = "./VGG_ART_iter_45000.caffemodel"
 
 
 
