@@ -7,7 +7,7 @@ dlib==19.13.1
 enum34==1.1.6
 h5py==2.7.1
 imutils==0.4.6
-ipython==5.6.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 kiwisolver==1.0.1
 leveldb==0.194
